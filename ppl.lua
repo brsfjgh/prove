@@ -21,7 +21,7 @@ return {
     "Purarisa0",
     "Gatitblox",
     "angeIovers",
-    "XxLuca_BoysxX"
+    "XxLuca_BoysxX",
     "Lukas_54547",
     "Poeta_9pm",
     "Lukaas_5665",
