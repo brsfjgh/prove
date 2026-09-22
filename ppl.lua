@@ -14,6 +14,8 @@ return {
     "Rojas123728",
     "XxsharlisxX",
     "grancheroka_br",
+    "swaror_zzz",
+    "Juliann_3232",
     "ShingekiNoKyojin_17",
     "lIIllIllllIIIlIlIlII",
     "lIIllIllllIIIlIlIlI",
