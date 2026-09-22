@@ -11,6 +11,8 @@ return {
     "diogobreno0421",
     "Ikaris_BR",
     "rosado289",
+    "Rojas123728",
+    "XxsharlisxX",
     "grancheroka_br",
     "ShingekiNoKyojin_17",
     "lIIllIllllIIIlIlIlII",
