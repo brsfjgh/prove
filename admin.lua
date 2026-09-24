@@ -46,7 +46,6 @@ return {
     "botfuerte11",
     "botfuerte12",
     "botfuerte13",
-    "zyn77773",
     "xxdeidaraxx50",
     "ikanaide08",
     "naoshecid0108",
