@@ -25,6 +25,8 @@ return {
     "darkissoez9",
     "darkissoez10",
     "darkissoez11",
+    "Juninho_afkh",
+    "Aislin_112008", 
     "darkissoez12",
     "darkissoez13",
     "darkissoez14",
