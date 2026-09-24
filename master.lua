@@ -3,6 +3,6 @@ return {
     "mzainlh",
     "nadmire_jl",
     "xdessnvx",
-    "lovezmorph",
+    "lovexmorph",
     "ikaris_br"
 }
