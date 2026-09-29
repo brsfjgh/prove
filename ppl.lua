@@ -1,5 +1,6 @@
 return {
     "Crxsyx",
+    "Rothschild_Y",
     "Dan7Infinix",
     "LaCoquette6_2",
     "dewn_sz",
