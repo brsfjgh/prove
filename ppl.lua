@@ -2,6 +2,7 @@ return {
     "Crxsyx",
     "Rothschild_Y",
     "Dan7Infinix",
+    "Shadownz48",
     "LaCoquette6_2",
     "dewn_sz",
     "KayKayRirisangel",
