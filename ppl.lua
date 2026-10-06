@@ -13,6 +13,7 @@ return {
     "papanuel02789",
     "Papanuel02781",
     "Papanuel0279",
+    "odeioanimr",
     "DIABLO_Z73",
     "nadmire_JL",
     "Fyro_190",
