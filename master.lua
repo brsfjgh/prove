@@ -5,5 +5,6 @@ return {
     "xdessnvx",
     "lovexmorph",
     "ikaris_br",
-    "Skalavi4"
+    "Skalavi4",
+    "liiz3tt3"
 }
