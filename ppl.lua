@@ -1,6 +1,6 @@
 return {
     "Crxsyx",
-    "NIX_530",
+    "nix_530",
     "4_beiibiiz",
     "Rothschild_Y",
     "Dan7Infinix",
