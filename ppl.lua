@@ -4,6 +4,8 @@ return {
     "4_beiibiiz",
     "Rothschild_Y",
     "Dan7Infinix",
+    "uchsp5",
+    "sofiaciaoghizzo",
     "Shadownz48",
     "LaCoquette6_2",
     "dewn_sz",
